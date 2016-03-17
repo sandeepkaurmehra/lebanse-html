@@ -1,0 +1,19 @@
+{
+  "name": "lebanse-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepkaurmehra/lebanse-html.git"
+  },
+  "author": "sandeep kaur m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepkaurmehra/lebanse-html/issues"
+  },
+  "homepage": "https://github.com/sandeepkaurmehra/lebanse-html#readme"
+}

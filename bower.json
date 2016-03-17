@@ -1,0 +1,25 @@
+{
+  "name": "cd",
+  "description": "hello!",
+  "main": "index.js",
+  "authors": [
+    "sandeep kaur m"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sandeepkaurmehra/lebanse-html",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
